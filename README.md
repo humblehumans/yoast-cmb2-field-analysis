@@ -1,5 +1,3 @@
-this plugin was forked inorder to change the _cmb2_ field identifier to something custom. We already have decalred form IDs and changing mid production would kill an existing data. :(
-
 # Yoast CMB2 Field Analysis WP Plugin
 
 ## About this plugin
@@ -31,11 +29,11 @@ fields but it can also be used in a number of different ways:
 -   `_my_theme_cmb2_hero_banner_text` (recommended)
 -   `_my_theme_hero_banner_cmb2_`
 
+This Plugin has been forked and the '_cmb2_' identifier altered to '_landing-page_tmplt_'
+
 ## WordPress and Yoast SEO dependencies
 
 Currently, this plugin has been tested up to WordPress
 `4.6` and Yoast SEO `3.5`
 
-This plugin will be updated and retested with new versions of both
-WordPress and the Yoast SEO plugin, with the version numbers above
-updated to reflect this.
+This plugin will be not be updated. If update is needed fork original plugin and alter as needed.
