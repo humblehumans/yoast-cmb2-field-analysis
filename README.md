@@ -29,7 +29,7 @@ fields but it can also be used in a number of different ways:
 -   `_my_theme_cmb2_hero_banner_text` (recommended)
 -   `_my_theme_hero_banner_cmb2_`
 
-This Plugin has been forked and the '_cmb2_' identifier altered to '_landing-page_tmplt_'
+This Plugin has been forked and the `_cmb2_` identifier altered to `_landing-page-tmplt_`
 
 ## WordPress and Yoast SEO dependencies
 
