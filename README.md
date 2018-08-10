@@ -36,4 +36,4 @@ This Plugin has been forked and the `_cmb2_` identifier altered to `_landing-pag
 Currently, this plugin has been tested up to WordPress
 `4.6` and Yoast SEO `3.5`
 
-This plugin will be not be updated. If update is needed fork original plugin and alter as needed.
+This plugin will be not be updated. If update is needed fork original plugin and alter.
