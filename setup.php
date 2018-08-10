@@ -3,8 +3,8 @@
 * Plugin Name: Yoast CMB2 Field Analysis
 * Plugin URI: https://harryfinn.co.uk
 * Description: Adds the content of all CMB2 prefixed fields to the Yoast SEO score analysis.
-* Version: 1.0.1
-* Author: Harry Finn
+* Version: 1.0.1.b
+* Author: Harry Finn / M Studio
 * Author URI: https://harryfinn.co.uk
 * License: GPL v3
 */
