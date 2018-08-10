@@ -1,3 +1,5 @@
+this plugin was forked inorder to change the _cmb2_ field identifier to something custom. We already have decalred form IDs and changing mid production would kill an existing data. :(
+
 # Yoast CMB2 Field Analysis WP Plugin
 
 ## About this plugin
