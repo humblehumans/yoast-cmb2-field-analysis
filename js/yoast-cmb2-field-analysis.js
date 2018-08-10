@@ -9,7 +9,7 @@
       );
 
       $('#post-body').find(
-        'input[type=text][name*=_cmb2_], textarea[name*=_cmb2_]'
+        'input[type=text][name*=_landing-page_tmplt_], textarea[name*=_landing-page_tmplt_]'
       ).on('keyup paste cut', function() {
         YoastSEO.app.pluginReloaded('YoastCMB2FieldAnalysis');
       });
@@ -19,7 +19,7 @@
       var cmb2_content;
 
       $('#post-body').find(
-        'input[type=text][name*=_cmb2_], textarea[name*=_cmb2_]'
+        'input[type=text][name*=_landing-page_tmplt_], textarea[name*=_landing-page_tmplt_]'
       ).each(function() { cmb2_content += ' ' + $(this).val(); });
 
       return data + cmb2_content;
