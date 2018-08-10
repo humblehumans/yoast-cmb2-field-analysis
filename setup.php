@@ -5,7 +5,7 @@
 * Description: Adds the content of all CMB2 prefixed fields to the Yoast SEO score analysis.
 * Version: 1.0.1.b
 * Author: Harry Finn / M Studio
-* Author URI: https://harryfinn.co.uk
+* Author URI: http://www.mdidit.com
 * License: GPL v3
 */
 
